@@ -1,4 +1,9 @@
-kjkk 222
-kk hello git!
+git add fileName 添加文件到工作区
 
-mmm
+git commit -m  “commit info” 提交文件到本地仓库
+
+git push origin master  push到远程仓库
+
+git pull 合并冲突文件
+
+git reset --hard  commitId  回退到哪一个commitId版本
